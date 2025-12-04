@@ -1,8 +1,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 # LENVIZ
-
-[Paper](https://arxiv.org/abs/2503.19804)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2503.19804)
 
 Official Repo for the Low Exposure Night Vision (LENVIZ) Dataset, a comprehensive multi-exposure benchmark dataset for low-light image enhancement comprising of over 230K frames showcasing 24K real-world indoor and outdoor, with-and-without human, scenes.
 
