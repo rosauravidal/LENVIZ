@@ -20,18 +20,20 @@ LENVIZ is a comprehensive multi-exposure benchmark dataset for low-light image e
 
 ## Dataset Composition
 1. **Training Dataset**: Captured using three distinct camera modules (S5K4H7YX03-FGX9, S5KJN1SQ03, and S5KJNS) to broaden representativeness.
+   
 | Camera Module | Resolution | Human GT (Files) | Human GT (Scenes) | Long Exposure GT (Files) | Long Exposure GT (Scenes) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | S5K4H7YX03-FGX9 | 3264x2448 | 81,099 | 7,487 | 72,947 | 7,862 |
 | S5KJN1SQ03 | 4080x3072 | 39,972 | 4,009 | 22,132 | 3,023 |
 | S5KJNS | 4080x3072 | 17,250 | 1,571 | 1,288 | 130 |
 | **Total** | | **138,321** | **13,067** | **96,367** | **11,015** |
+
 2. **Testing Dataset**: A curated set of 1,468 frames from 203 unique scenes. It is divided into a "Reference" partition, which includes 60 scenes with paired human-edited ground truth, and a "No-reference" partition, which includes 143 scenes with handheld captures and human subjects.
-| Data-type | # of files | # of scenes |
-| :--- | :--- | :--- |
-| Reference | 610 | 60 |
-| No-reference | 858 | 143 |
-| **Total** | **1,468** | **203** |
+   
+Data-type,# of files,# of scenes
+Reference,610,60
+No-reference,858,143
+Total,"1,468",203
 
 ## Benchmarked Models
 The dataset was utilized to conduct an in-depth evaluation of current state-of-the-art low-light image enhancement techniques.
