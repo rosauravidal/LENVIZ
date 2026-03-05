@@ -27,19 +27,21 @@ The dataset was utilized to conduct an in-depth evaluation of current state-of-t
 2. **Multi-Exposure Methods**: Evaluated models include MEFNet, HoLoCo, and MobileMEF.
 3. **Performance**: Models trained on LENVIZ consistently achieved superior scores in perceptual metrics like LPIPS and SSIM, demonstrating the dataset is highly effective at training models to produce visually pleasing and structurally sound results.
 
-## Dataset access
-Download link: [Access request](https://forms.gle/pVzCPtSGi91VZmGT8)
-
-## License
+## Terms of Use & Data License Agreement
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] 
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+By requesting and receiving access to the LENVIZ dataset, the Applicant (hereafter "User") agrees to the following [Terms of Use & Data License Agreement](https://github.com/rosauravidal/LENVIZ/blob/main/Data_Use_Agreement.md) 
+
+## Dataset access
+Download link: [Access request](https://forms.gle/pVzCPtSGi91VZmGT8)
 
 ## Bibtex
 ```
