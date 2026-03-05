@@ -39,7 +39,7 @@ This work is licensed under a
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
-## Dataset access
+### Dataset access
 Download link: [Access request](https://forms.gle/pVzCPtSGi91VZmGT8)
 
 By requesting and receiving access to the LENVIZ dataset, the Applicant (hereafter "User") agrees to the following [Terms of Use & Data License Agreement](https://github.com/rosauravidal/LENVIZ/blob/main/Data_Use_Agreement.md) 
