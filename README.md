@@ -2,6 +2,7 @@
 
 # LENVIZ
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2503.19804)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/pDq2XlAdmZE)
 
 Official Repo for the Low Exposure Night Vision (LENVIZ) Dataset, a comprehensive multi-exposure benchmark dataset for low-light image enhancement comprising of over 230K frames showcasing 24K real-world indoor and outdoor, with-and-without human, scenes.
 
@@ -26,9 +27,6 @@ The dataset was utilized to conduct an in-depth evaluation of current state-of-t
 1. **Single Exposure Methods**: Evaluated models include LLFormer, ExpoMamba, and ZeroDCE++.
 2. **Multi-Exposure Methods**: Evaluated models include MEFNet, HoLoCo, and MobileMEF.
 3. **Performance**: Models trained on LENVIZ consistently achieved superior scores in perceptual metrics like LPIPS and SSIM, demonstrating the dataset is highly effective at training models to produce visually pleasing and structurally sound results.
-
-## LENVIZ Explanation
-https://youtu.be/pDq2XlAdmZE
 
 ## Terms of Use & Data License Agreement
 
