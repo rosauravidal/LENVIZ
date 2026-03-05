@@ -27,6 +27,9 @@ The dataset was utilized to conduct an in-depth evaluation of current state-of-t
 2. **Multi-Exposure Methods**: Evaluated models include MEFNet, HoLoCo, and MobileMEF.
 3. **Performance**: Models trained on LENVIZ consistently achieved superior scores in perceptual metrics like LPIPS and SSIM, demonstrating the dataset is highly effective at training models to produce visually pleasing and structurally sound results.
 
+## LENVIZ Explanation
+https://youtu.be/pDq2XlAdmZE
+
 ## Terms of Use & Data License Agreement
 
 This work is licensed under a
