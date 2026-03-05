@@ -30,10 +30,11 @@ LENVIZ is a comprehensive multi-exposure benchmark dataset for low-light image e
 
 2. **Testing Dataset**: A curated set of 1,468 frames from 203 unique scenes. It is divided into a "Reference" partition, which includes 60 scenes with paired human-edited ground truth, and a "No-reference" partition, which includes 143 scenes with handheld captures and human subjects.
    
-Data-type,# of files,# of scenes
-Reference,610,60
-No-reference,858,143
-Total,"1,468",203
+| Data-type | # of files | # of scenes |
+| :--- | :--- | :--- |
+| Reference | 610 | 60 |
+| No-reference | 858 | 143 |
+| **Total** | **1,468** | **203** |
 
 ## Benchmarked Models
 The dataset was utilized to conduct an in-depth evaluation of current state-of-the-art low-light image enhancement techniques.
