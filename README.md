@@ -7,7 +7,7 @@ Official Repo for the Low Exposure Night Vision (LENVIZ) Dataset, a comprehensiv
 
 ![Teaser image](figures/teaser_figure.jpg)
 
-## Project Overview
+## Data Overview
 LENVIZ is a comprehensive multi-exposure benchmark dataset for low-light image enhancement. Traditional imaging systems struggle in low-illumination environments due to their limited dynamic range, increased noise, and reduced signal-to-noise ratios. To advance research in this field, this dataset provides over 230K frames showcasing 24K real-world indoor and outdoor scenes.
 
 ## Key Features of the Dataset
