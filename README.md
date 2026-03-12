@@ -1,6 +1,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 # LENVIZ
+[![WACV 2024](https://img.shields.io/badge/WACV_2024-CVF_Paper-00a896.svg)](https://openaccess.thecvf.com/content/WACV2026/html/Aithal_LENVIZ_A_High-Resolution_Low-Exposure_Night_Vision_Benchmark_Dataset_WACV_2026_paper.html)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2503.19804)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/pDq2XlAdmZE)
 
@@ -60,11 +61,12 @@ By requesting and receiving access to the LENVIZ dataset, the Applicant (hereaft
 
 ## Bibtex
 ```
-@article{aithal2025lenvizhighresolutionlowexposurenight,
-      title={LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset}, 
-      author={Manjushree Aithal and Rosaura G. VidalMata and Manikandtan Kartha and Gong Chen and Eashan Adhikarla and Lucas N. Kirsten and Zhicheng Fu and Nikhil A. Madhusudhana and Joe Nasti},
-      year={2025},
-      archivePrefix={WACV},
-      year={2025},
+@InProceedings{Aithal_2026_WACV,
+    author    = {Aithal, Manjushree and VidalMata, Rosaura G and Kartha, Manikandtan and Chen, Gong and Adhikarla, Eashan and Kirsten, Lucas Nedel and Fu, Zhicheng and Madhusudhana, Nikhil Ambha and Nasti, Joseph V.},
+    title     = {LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {2531-2540}
 }
 ```
