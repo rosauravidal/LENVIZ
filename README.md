@@ -4,6 +4,8 @@
 [![WACV 2024](https://img.shields.io/badge/WACV_2024-CVF_Paper-00a896.svg)](https://openaccess.thecvf.com/content/WACV2026/html/Aithal_LENVIZ_A_High-Resolution_Low-Exposure_Night_Vision_Benchmark_Dataset_WACV_2026_paper.html)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2503.19804)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/pDq2XlAdmZE)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?logo=github)](https://github.com/rosauravidal/LENVIZ)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/rosauravidal/LENVIZ)
 
 Official Repo for the Low Exposure Night Vision (LENVIZ) Dataset, a comprehensive multi-exposure benchmark dataset for low-light image enhancement comprising of over 230K frames showcasing 24K real-world indoor and outdoor, with-and-without human, scenes.
 
@@ -45,8 +47,7 @@ The dataset was utilized to conduct an in-depth evaluation of current state-of-t
 
 ## Terms of Use & Data License Agreement
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] 
+The LENVIZ dataset is released under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] 
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
@@ -54,10 +55,10 @@ This work is licensed under a
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
-### Dataset access
-Training + Ref test Download link: [Access request](https://forms.gle/pVzCPtSGi91VZmGT8)
+1. **Training Dataset**: Publicly available on [Hugging Face](https://huggingface.co/datasets/rosauravidal/LENVIZ). No request is required.
+2. **Test Dataset**: While this subset is available under the same CC BY-NC 4.0 license, it contains sensitive imagery (human faces). To ensure we have a record of users accessing this data, please request access via this form: [Access request](https://forms.gle/pVzCPtSGi91VZmGT8)
 
-By requesting and receiving access to the LENVIZ dataset, the Applicant (hereafter "User") agrees to the following [Terms of Use & Data License Agreement](https://github.com/rosauravidal/LENVIZ/blob/main/Data_Use_Agreement.md) 
+By downloading the training data or requesting access to the test dataset, the Applicant (hereafter "User") agrees to the terms outlined in the license.
 
 ## Bibtex
 ```
